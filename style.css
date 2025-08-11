@@ -1,0 +1,66 @@
+body{
+    background-color: rgb(232, 238, 232);
+    padding: 10px;
+}
+h1{
+    font-size: 2em;
+    font-weight: bolder;
+}
+h2{
+    color: rgb(136, 23, 236);;
+}
+p.of-form {
+    font-size: 25px;
+}
+.form-container{
+    background-color:paleturquoise;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px black;
+}
+.input-box{
+    width: 99%;
+    margin-top: 10px;
+}
+.pin-box{
+    margin-top: 10px;
+}
+label{
+    color: rgb(98, 4, 37);
+    font-size: 90%;
+    font-family: sans-serif;
+   
+}
+.input-box input{
+    width: 100%;
+    height: .5cm;
+    margin-top: 5px;
+}
+.gender-option{
+    background-color: white;
+    border-radius: 2px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.gender-option{
+    display: flex;
+    margin-top: 8px;   
+}
+.address-box{
+    margin-top: 10px;
+}
+textarea{
+    width: 99%;
+}
+.submit-box{
+    margin-top: 25px;
+    /* align-items: center; */
+    margin-left: 45%;
+}
+.submit-box input{
+    background-color: rgb(174, 222, 103);
+    width: 25%;
+}
+.gender-box{
+    margin-top: 10px;
+}
